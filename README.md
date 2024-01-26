@@ -1,13 +1,34 @@
-https://www.figma.com/file/BSk9cPyJl0XgM0nGALDP5h/Wireframe?node-id=0%3A1&t=ux6hx01VSu9aitDs-1
+# Digital Resume
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FBSk9cPyJl0XgM0nGALDP5h%2FWireframe%3Fnode-id%3D0%253A1%26t%3Dux6hx01VSu9aitDs-1" allowfullscreen></iframe>
+![Wireframe](https://www.figma.com/file/BSk9cPyJl0XgM0nGALDP5h/Wireframe?node-id=0%3A1&t=ux6hx01VSu9aitDs-1)
 
-Digital Resume 9
+## Overview
 
-RORMAK879__BCL2302_OwenGroup_Rorisang_Makgaka_ITW9
-Technologies used:-CSS and HTML
+Welcome to my Digital Resume repository! This project showcases my professional information and includes a wireframe that represents the design structure. You can view the wireframe [here](https://www.figma.com/file/BSk9cPyJl0XgM0nGALDP5h/Wireframe?node-id=0%3A1&t=ux6hx01VSu9aitDs-1).
 
-My project is about my resume. It includes one of the project I made under projects and it has a button link which enables a user to download my CV.
+## Project Details
+
+### Project Name: Digital Resume 9
+
+### Technologies Used
+
+- HTML
+- CSS
+
+## Features
+
+- **Wireframe**: The wireframe provides an overview of the design structure of my digital resume. You can access it [here](https://www.figma.com/file/BSk9cPyJl0XgM0nGALDP5h/Wireframe?node-id=0%3A1&t=ux6hx01VSu9aitDs-1).
+  
+- **Projects Section**: The resume includes a section highlighting one of my significant projects.
+
+- **Download CV Button**: A button link is provided for users to easily download my CV.
+
+## How to Use
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/digital-resume.git
 
 
 

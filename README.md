@@ -1,6 +1,5 @@
 # Digital Resume
 
-![Wireframe](https://www.figma.com/file/BSk9cPyJl0XgM0nGALDP5h/Wireframe?node-id=0%3A1&t=ux6hx01VSu9aitDs-1)
 
 ## Overview
 
@@ -20,8 +19,12 @@ Welcome to my Digital Resume repository! This project showcases my professional 
 - **Wireframe**: The wireframe provides an overview of the design structure of my digital resume. You can access it [here](https://www.figma.com/file/BSk9cPyJl0XgM0nGALDP5h/Wireframe?node-id=0%3A1&t=ux6hx01VSu9aitDs-1).
   
 - **Projects Section**: The resume includes a section highlighting one of my significant projects.
-
 - **Download CV Button**: A button link is provided for users to easily download my CV.
+  
+### Author
+
+- Rorisang Makgaka
+- Email:makgakarorisang@gmail.com
 
 ## How to Use
 
